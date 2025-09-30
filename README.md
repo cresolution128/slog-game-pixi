@@ -1,10 +1,6 @@
 # Slot machine game
 A simple slot machine game with three reels.
 
-![Slots](https://user-images.githubusercontent.com/61456651/205433186-9b1e4d90-98b5-4afb-86d0-8fe9bd86c7d3.jpg)
-
-### [Live Demo](https://asiryk.github.io/slot-game/ "Slot game")
-
 ---
 
 #### What you need to run this code
