@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@types/node": "20.14.10",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
     "pixi.js": "8.2.2",
     "ts-node": "10.9.2"
   },
